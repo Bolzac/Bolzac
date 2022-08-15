@@ -26,4 +26,6 @@ I met with coding at 2020. I started with web development and for now I am full 
   <img src="https://user-images.githubusercontent.com/70448242/184631899-c101f33e-b462-478a-bca1-1e30ec612069.png"/>
 </div>
 
+<div>
 [![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+</div>
