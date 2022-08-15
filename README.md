@@ -10,6 +10,8 @@ I met with coding at 2020. I started with web development and for now I am full 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolzac)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmutGzl&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## <p align="center"> :computer: Technologies </p>
 <div align="center" style="width:100%;display:flex;justify-content:center;align-items:center;">
   <img src="https://user-images.githubusercontent.com/70448242/184630818-e9a66db1-af7d-4962-8511-22648e028fbb.png"/>
@@ -30,3 +32,5 @@ I met with coding at 2020. I started with web development and for now I am full 
   <img src="https://user-images.githubusercontent.com/70448242/184631777-2ab7d1a6-c9f8-42d4-acc2-f2e2d56de5bb.png"/>
   <img src="https://user-images.githubusercontent.com/70448242/184631899-c101f33e-b462-478a-bca1-1e30ec612069.png"/>
 </div>
+
+![3d](profile-3d-contrib/profile-night-rainbow.svg)
