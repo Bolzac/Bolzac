@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###My name is Emirhan Karakadıoğlu but you can call me Bolzac.
+### My name is Emirhan Karakadıoğlu but you can call me Bolzac.
 
 🔭 I’m interested in web development, embedded systems, game development and pixel art.
 ## <p align="center"> :computer: Technologies </p>
