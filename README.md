@@ -5,6 +5,11 @@ I am a student at Yildiz Technical University, Mathematical Enginnering departma
 I met with coding at 2020. I started with web development and for now I am full stack web developer.
 
 🔭 I’m interested in web development, embedded systems, game development and pixel art.
+
+[![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolzac)](https://github.com/anuraghazra/github-readme-stats)
+
 ## <p align="center"> :computer: Technologies </p>
 <div align="center" style="width:100%;display:flex;justify-content:center;align-items:center;">
   <img src="https://user-images.githubusercontent.com/70448242/184630818-e9a66db1-af7d-4962-8511-22648e028fbb.png"/>
@@ -24,8 +29,4 @@ I met with coding at 2020. I started with web development and for now I am full 
   <img src="https://user-images.githubusercontent.com/70448242/184631717-2176af3a-cce6-4165-a24a-db6384675c68.png"/>
   <img src="https://user-images.githubusercontent.com/70448242/184631777-2ab7d1a6-c9f8-42d4-acc2-f2e2d56de5bb.png"/>
   <img src="https://user-images.githubusercontent.com/70448242/184631899-c101f33e-b462-478a-bca1-1e30ec612069.png"/>
-</div>
-
-<div>
-[![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 </div>
