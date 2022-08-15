@@ -6,7 +6,7 @@ I met with coding at 2020. I started with web development and for now I am full 
 
 🔭 I’m interested in web development, embedded systems, game development and pixel art.
 
-[![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolzac)](https://github.com/anuraghazra/github-readme-stats)
+[![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)                                                                                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolzac)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <p align="center"> :computer: Technologies </p>
 <div align="center" style="width:100%;display:flex;justify-content:center;align-items:center;">
