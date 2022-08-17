@@ -8,7 +8,7 @@ I met with coding at 2020. I started with web development and for now I am full 
 
 [![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolzac)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolzac)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmutGzl&theme=dark&background=000000)](https://git.io/streak-stats)
 
