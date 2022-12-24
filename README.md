@@ -2,9 +2,10 @@
 
 ### My name is Emirhan Karakadıoğlu but you can call me Bolzac.
 I am a student at Yildiz Technical University, Mathematical Enginnering departmant.
-I met with coding at 2020. I started with web development and for now I am full stack web developer.
+I met with coding at 2020. I started with web development.
 
 🔭 I’m interested in web development, embedded systems, game development and pixel art.
+Currently I am studying on game development, simulations and game design.
 
 [![Bolzac's github stats](https://github-readme-stats.vercel.app/api?username=bolzac&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
